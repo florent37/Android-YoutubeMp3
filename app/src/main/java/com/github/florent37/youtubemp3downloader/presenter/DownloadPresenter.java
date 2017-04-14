@@ -1,20 +1,14 @@
-package com.github.florent37.youtubemp3downloader;
+package com.github.florent37.youtubemp3downloader.presenter;
 
 import android.content.Context;
-import android.util.Log;
 
+import com.github.florent37.youtubemp3downloader.model.Video;
 import com.github.florent37.youtubemp3downloader.repository.FileDownloaderRepository;
 import com.github.florent37.youtubemp3downloader.repository.UrlRepository;
-
-import java.io.File;
 
 import javax.inject.Inject;
 
 import io.reactivex.Observable;
-import io.reactivex.Scheduler;
-import io.reactivex.annotations.NonNull;
-import io.reactivex.functions.Consumer;
-import io.reactivex.schedulers.Schedulers;
 
 /**
  * Created by florentchampigny on 17/03/2017.

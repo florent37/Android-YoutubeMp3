@@ -1,4 +1,4 @@
-package com.github.florent37.youtubemp3downloader;
+package com.github.florent37.youtubemp3downloader.model;
 
 import org.json.JSONObject;
 
