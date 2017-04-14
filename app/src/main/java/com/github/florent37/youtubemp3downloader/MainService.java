@@ -8,6 +8,7 @@ import android.support.annotation.Nullable;
 import android.widget.Toast;
 
 import com.github.florent37.youtubemp3downloader.dagger.AppComponent;
+import com.github.florent37.youtubemp3downloader.presenter.DownloadPresenter;
 
 import javax.inject.Inject;
 

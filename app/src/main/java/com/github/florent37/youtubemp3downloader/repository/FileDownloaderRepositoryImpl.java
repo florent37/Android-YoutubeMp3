@@ -4,7 +4,7 @@ import android.content.Context;
 import android.media.MediaScannerConnection;
 import android.os.Environment;
 
-import com.github.florent37.youtubemp3downloader.Video;
+import com.github.florent37.youtubemp3downloader.model.Video;
 
 import java.io.File;
 import java.io.IOException;

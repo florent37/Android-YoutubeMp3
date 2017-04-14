@@ -2,11 +2,8 @@ package com.github.florent37.youtubemp3downloader.repository;
 
 import android.content.Context;
 
-import com.github.florent37.youtubemp3downloader.Video;
+import com.github.florent37.youtubemp3downloader.model.Video;
 
-import java.io.File;
-
-import io.reactivex.Completable;
 import io.reactivex.Observable;
 
 /**

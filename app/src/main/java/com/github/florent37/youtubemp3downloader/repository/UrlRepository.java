@@ -1,6 +1,6 @@
 package com.github.florent37.youtubemp3downloader.repository;
 
-import com.github.florent37.youtubemp3downloader.Video;
+import com.github.florent37.youtubemp3downloader.model.Video;
 
 import io.reactivex.Observable;
 
