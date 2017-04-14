@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rxpermissions-0.9.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/beb65e8f25b8c0c96a9d4a55604fd828795f7aa6/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/beb65e8f25b8c0c96a9d4a55604fd828795f7aa6/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions2/rxpermissions/0.9.3/f4d8d2bf07d43f063236f417c5ce2be434c6760/rxpermissions-0.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
