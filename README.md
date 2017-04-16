@@ -4,7 +4,8 @@ Download videos as mp3 directly from Youtube Android App Edit
 Add topics
 
 <a href="https://github.com/florent37/Android-YoutubeMp3/raw/master/sample-apk.apk">
-    <img src="https://github.com/florent37/Android-YoutubeMp3/raw/master/media/apk_icon.png"/>
+    <img src="https://github.com/florent37/Android-YoutubeMp3/raw/master/media/apk_icon.png"
+        height="100px" width="100px"/>
     Sample apk
 </a>
 
