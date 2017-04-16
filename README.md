@@ -1,6 +1,7 @@
 # YoutubeMp3
 
-Download video as mp3 from app
+Download videos as mp3 directly from Youtube Android App Edit
+Add topics
 
 [![screen](https://raw.githubusercontent.com/florent37/YoutubeMp3/master/media/youtube.png)]()
 [![screen](https://raw.githubusercontent.com/florent37/YoutubeMp3/master/media/share.png)]()
